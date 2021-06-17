@@ -1,1 +1,1 @@
-export { default } from '@/components/www/pages/home'
+export { default } from '@w3/pages/home'

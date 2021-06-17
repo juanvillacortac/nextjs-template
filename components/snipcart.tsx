@@ -3,7 +3,7 @@ import { useEffect, useState, useContext, createContext, ReactNode } from 'react
 import scriptLoader from 'react-async-script-loader'
 
 const URL = 'https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.js'
-const API_KEY = 'OTM1ODBiOTAtMDdhYy00NzVmLWJkMGUtYjZmNTgwODVlYTYxNjM3Mzk2ODgxNzczODQxNjUx'
+const API_KEY = ''
 
 export const SnipcartHead = () => (
   <Head>
